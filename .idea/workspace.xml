@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5307de5e-30c9-421b-8b18-7850c30c4728" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1. Writing Functions in Python/10_decorators_metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Writing Functions in Python/11_decorators_with_params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Writing Functions in Python/5_closures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Writing Functions in Python/6_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Writing Functions in Python/7_decorators_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Writing Functions in Python/8_decorators_timer_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Writing Functions in Python/9_decorators_memoize_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Writing Functions in Python/4_nested_contexts.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Writing Functions in Python/4_nested_contexts.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="32O3TIIyWxlqHmNTlE5XG13LlDb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10_decorators_metadata.executor": "Run",
+    "Python.11_decorators_with_params.executor": "Run",
+    "Python.4_nested_contexts.executor": "Run",
+    "Python.5_closures.executor": "Run",
+    "Python.6_decorators.executor": "Run",
+    "Python.8_decorators_examples.executor": "Run",
+    "Python.9_decorators_memoize_example.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/USUARIO/OneDrive/Desktop/Repositorios/Python_Core_study_excercises/1. Writing Functions in Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USUARIO\OneDrive\Desktop\Repositorios\Python_Core_study_excercises\1. Writing Functions in Python" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.130" />
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5307de5e-30c9-421b-8b18-7850c30c4728" name="Changes" comment="" />
+      <created>1757277797993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757277797993</updated>
+      <workItem from="1757277799139" duration="10470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$8_decorators_examples.coverage" NAME="8_decorators_examples Coverage Results" MODIFIED="1757288490865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$9_decorators_memoize_example.coverage" NAME="9_decorators_memoize_example Coverage Results" MODIFIED="1757289301428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$11_decorators_with_params.coverage" NAME="11_decorators_with_params Coverage Results" MODIFIED="1757296243187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$5_closures.coverage" NAME="5_closures Coverage Results" MODIFIED="1757285672881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$10_decorators_metadata.coverage" NAME="10_decorators_metadata Coverage Results" MODIFIED="1757295264463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$4_nested_contexts.coverage" NAME="4_nested_contexts Coverage Results" MODIFIED="1757279563889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$6_decorators.coverage" NAME="6_decorators Coverage Results" MODIFIED="1757286815886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
+  </component>
+</project>
