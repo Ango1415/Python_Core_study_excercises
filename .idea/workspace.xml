@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5307de5e-30c9-421b-8b18-7850c30c4728" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python/10_interfaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python/11_factory_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python/5_type_hints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python/6_descriptors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python/7_attribute_access.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python/8_iterators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python/9_abstract_base_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python/12_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Data Structures and Algorithms in Python/10_binary_search_tree_bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Data Structures and Algorithms in Python/1_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Data Structures and Algorithms in Python/2_stacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Data Structures and Algorithms in Python/3_stacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Data Structures and Algorithms in Python/4_queues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Data Structures and Algorithms in Python/5_queues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Data Structures and Algorithms in Python/6_trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Data Structures and Algorithms in Python/7_graphs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Data Structures and Algorithms in Python/8_recursion_factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Data Structures and Algorithms in Python/9_binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python/4_multilevel_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python/4_multilevel_inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,26 +49,35 @@
     "Python.11_decorators_with_params.executor": "Run",
     "Python.11_factory_methods.executor": "Run",
     "Python.12_decorators_timeout.executor": "Run",
+    "Python.12_test.executor": "Run",
     "Python.1_dir_function.executor": "Run",
+    "Python.1_linked_list.executor": "Run",
     "Python.2_basic_class.executor": "Run",
     "Python.2_overloading_operators.executor": "Run",
+    "Python.2_stacks.executor": "Run",
     "Python.3_class_methods.executor": "Run",
     "Python.3_multiple_inheritance.executor": "Run",
+    "Python.3_stracks.executor": "Run",
     "Python.4_class_inheritance.executor": "Run",
     "Python.4_multilevel_inheritance.executor": "Run",
     "Python.4_nested_contexts.executor": "Run",
+    "Python.4_queues.executor": "Run",
     "Python.5_class_override_methods.executor": "Run",
     "Python.5_class_overwrite_methods.executor": "Run",
     "Python.5_closures.executor": "Run",
+    "Python.5_queues.executor": "Run",
     "Python.6_decorators.executor": "Run",
     "Python.6_descriptors.executor": "Run",
     "Python.6_operator_overloading.executor": "Run",
     "Python.7_attribute_access.executor": "Run",
+    "Python.7_graphs.executor": "Run",
     "Python.7_inheritance_comparison.executor": "Run",
     "Python.8_decorators_examples.executor": "Run",
     "Python.8_iterators.executor": "Run",
+    "Python.8_recursion_factorial.executor": "Run",
     "Python.8_str_and_rpr.executor": "Run",
     "Python.9_abstract_base_classes.executor": "Run",
+    "Python.9_binary_search.executor": "Run",
     "Python.9_custom_exceptions.executor": "Run",
     "Python.9_decorators_memoize_example.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -78,7 +90,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -109,6 +121,7 @@
       <workItem from="1757422584381" duration="3505000" />
       <workItem from="1757441607315" duration="5203000" />
       <workItem from="1757450552560" duration="5743000" />
+      <workItem from="1757527636747" duration="13963000" />
     </task>
     <servers />
   </component>
@@ -118,27 +131,36 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$8_decorators_examples.coverage" NAME="8_decorators_examples Coverage Results" MODIFIED="1757288490865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$3_multiple_inheritance.coverage" NAME="3_multiple_inheritance Coverage Results" MODIFIED="1757422616430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$4_queues.coverage" NAME="4_queues Coverage Results" MODIFIED="1757539241148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Data Structures and Algorithms in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$5_class_overwrite_methods.coverage" NAME="5_class_overwrite_methods Coverage Results" MODIFIED="1757364534481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Introduction to Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$5_closures.coverage" NAME="5_closures Coverage Results" MODIFIED="1757285672881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$12_decorators_timeout.coverage" NAME="12_decorators_timeout Coverage Results" MODIFIED="1757353676132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$8_str_and_rpr.coverage" NAME="8_str_and_rpr Coverage Results" MODIFIED="1757370510086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Introduction to Object-Oriented Programming in Python" />
-    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$3_class_methods.coverage" NAME="3_class_methods Coverage Results" MODIFIED="1757363639027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Introduction to Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$1_dir_function.coverage" NAME="1_dir_function Coverage Results" MODIFIED="1757354895353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Introduction to Object-Oriented Programming in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$3_class_methods.coverage" NAME="3_class_methods Coverage Results" MODIFIED="1757363639027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Introduction to Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$4_nested_contexts.coverage" NAME="4_nested_contexts Coverage Results" MODIFIED="1757279563889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$7_attribute_access.coverage" NAME="7_attribute_access Coverage Results" MODIFIED="1757444396425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$9_decorators_memoize_example.coverage" NAME="9_decorators_memoize_example Coverage Results" MODIFIED="1757289301428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$12_test.coverage" NAME="12_test Coverage Results" MODIFIED="1757534026817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$2_basic_class.coverage" NAME="2_basic_class Coverage Results" MODIFIED="1757355631811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Introduction to Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$9_custom_exceptions.coverage" NAME="9_custom_exceptions Coverage Results" MODIFIED="1757372522212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Introduction to Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$9_abstract_base_classes.coverage" NAME="9_abstract_base_classes Coverage Results" MODIFIED="1757451617013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$1_linked_list.coverage" NAME="1_linked_list Coverage Results" MODIFIED="1757535548944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Data Structures and Algorithms in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$4_class_inheritance.coverage" NAME="4_class_inheritance Coverage Results" MODIFIED="1757364114632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Introduction to Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$2_overloading_operators.coverage" NAME="2_overloading_operators Coverage Results" MODIFIED="1757383716955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$4_multilevel_inheritance.coverage" NAME="4_multilevel_inheritance Coverage Results" MODIFIED="1757422731067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$7_graphs.coverage" NAME="7_graphs Coverage Results" MODIFIED="1757545632884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Data Structures and Algorithms in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$7_inheritance_comparison.coverage" NAME="7_inheritance_comparison Coverage Results" MODIFIED="1757369138348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Introduction to Object-Oriented Programming in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$5_queues.coverage" NAME="5_queues Coverage Results" MODIFIED="1757541367494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Data Structures and Algorithms in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$6_descriptors.coverage" NAME="6_descriptors Coverage Results" MODIFIED="1757425287703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$3_stracks.coverage" NAME="3_stracks Coverage Results" MODIFIED="1757538415479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Data Structures and Algorithms in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$8_iterators.coverage" NAME="8_iterators Coverage Results" MODIFIED="1757446553191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$10_decorators_metadata.coverage" NAME="10_decorators_metadata Coverage Results" MODIFIED="1757295264463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$2_stacks.coverage" NAME="2_stacks Coverage Results" MODIFIED="1757538202190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Data Structures and Algorithms in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$6_decorators.coverage" NAME="6_decorators Coverage Results" MODIFIED="1757286815886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$5_class_override_methods.coverage" NAME="5_class_override_methods Coverage Results" MODIFIED="1757365050512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Introduction to Object-Oriented Programming in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$8_recursion_factorial.coverage" NAME="8_recursion_factorial Coverage Results" MODIFIED="1757546411236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Data Structures and Algorithms in Python" />
+    <SUITE FILE_PATH="coverage/Python_Core_study_excercises$9_binary_search.coverage" NAME="9_binary_search Coverage Results" MODIFIED="1757549771689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Data Structures and Algorithms in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$6_operator_overloading.coverage" NAME="6_operator_overloading Coverage Results" MODIFIED="1757367948286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Introduction to Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$11_factory_methods.coverage" NAME="11_factory_methods Coverage Results" MODIFIED="1757463746111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Intermediate Object-Oriented Programming in Python" />
     <SUITE FILE_PATH="coverage/Python_Core_study_excercises$11_decorators_with_params.coverage" NAME="11_decorators_with_params Coverage Results" MODIFIED="1757296243187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Writing Functions in Python" />
